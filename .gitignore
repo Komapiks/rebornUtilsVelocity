@@ -1,0 +1,15 @@
+# Any dir, that starts with "_"
+_*/
+
+# compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Visual Studio Code workspace and settings files
+.vscode/
+.vscode/*
+
+.*/
+
+target/
